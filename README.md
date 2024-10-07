@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Frontend dev from Kazakhstan, Astana
+Hello 👋 I'm a Frontend dev from Kazakhstan, Astana
 
 
 # 💻 Tech Stack:
