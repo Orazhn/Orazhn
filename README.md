@@ -15,7 +15,7 @@ Hi👋 I'm frontend developer from Astana, Kazakhstan
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Orazhn&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Orazhn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Orazhn&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Orazhn&icon=1&color=1)](https://visitcount.itsvg.in)
